@@ -1,0 +1,2 @@
+# Machine-Learning-And-Its-Healthcare-Applications
+Three days workshop on, “Machine Learning And Its Healthcare Applications” Feb 13-15th Feb 2021. This workshop will introduce the fundamental concepts of machine learning with an overview of deep learning techniques. The participants will obtain deep insights of machine learning which in turn will help them to apply it in different healthcare applications.
